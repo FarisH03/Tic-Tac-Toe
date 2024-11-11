@@ -13,10 +13,12 @@ A console-based Tic-Tac-Toe game implemented from scratch in three different pro
 - **Cross-Platform**: Works on various operating systems.
 
 ## Installation
-1. Clone the repository: https://github.com/FarisH03/Tic-Tac-Toe
+1. Clone the repository:
 
+   ```bash
+   git clone  https://github.com/FarisH03/Tic-Tac-Toe
 
-2. Navigate to the specific language implementation:
+3. Navigate to the specific language implementation:
 
 - **C#**:
   ```
