@@ -14,7 +14,7 @@ A console-based Tic-Tac-Toe game implemented from scratch in three different pro
 - **Cross-Platform**: Works on various operating systems.
 
 ## Installation
-1. Clone the repository:
+1. Clone the repository: git clone https://github.com/yourusername/tic-tac-toe-project.git
 
 JavaScript:
 bash
