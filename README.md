@@ -15,21 +15,6 @@ A console-based Tic-Tac-Toe game implemented from scratch in three different pro
 ## Installation
 1. Clone the repository: https://github.com/FarisH03/Tic-Tac-Toe
 
-JavaScript:
-bash
-Copy code
-cd tic-tac-toe-project/javascript
-Usage
-Run the game:
-C#:
-bash
-Copy code
-dotnet run
-Python:
-bash
-Copy code
-python tic_tac_toe.py
-JavaScript: Open index.html in your web browser.
 
 2. Navigate to the specific language implementation:
 
