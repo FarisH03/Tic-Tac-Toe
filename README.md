@@ -5,7 +5,6 @@ A console-based Tic-Tac-Toe game implemented from scratch in three different pro
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 
 ## Features
 - **Two-Player Game**: Classic Tic-Tac-Toe with two players ('X' and 'O').
@@ -47,15 +46,3 @@ JavaScript: Open index.html in your web browser.
   cd tic-tac-toe-project/javascript
   ```
 
-## Usage
-1. Run the game:
-- **C#**:
-  ```
-  dotnet run
-  ```
-- **Python**:
-  ```
-  python tic_tac_toe.py
-  ```
-- **JavaScript**:
-  Open `index.html` in your web browser.
