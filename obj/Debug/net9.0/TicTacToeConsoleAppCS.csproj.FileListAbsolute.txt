@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\TicTacToeConsoleAppCS\bin\Debug\net9.0\TicTacToeConsoleAppCS.exe
+C:\Users\hp\Desktop\TicTacToeConsoleAppCS\bin\Debug\net9.0\TicTacToeConsoleAppCS.deps.json
+C:\Users\hp\Desktop\TicTacToeConsoleAppCS\bin\Debug\net9.0\TicTacToeConsoleAppCS.runtimeconfig.json
+C:\Users\hp\Desktop\TicTacToeConsoleAppCS\bin\Debug\net9.0\TicTacToeConsoleAppCS.dll
+C:\Users\hp\Desktop\TicTacToeConsoleAppCS\bin\Debug\net9.0\TicTacToeConsoleAppCS.pdb
+C:\Users\hp\Desktop\TicTacToeConsoleAppCS\obj\Debug\net9.0\TicTacToeConsoleAppCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\TicTacToeConsoleAppCS\obj\Debug\net9.0\TicTacToeConsoleAppCS.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\TicTacToeConsoleAppCS\obj\Debug\net9.0\TicTacToeConsoleAppCS.AssemblyInfo.cs
+C:\Users\hp\Desktop\TicTacToeConsoleAppCS\obj\Debug\net9.0\TicTacToeConsoleAppCS.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\TicTacToeConsoleAppCS\obj\Debug\net9.0\TicTacToeConsoleAppCS.dll
+C:\Users\hp\Desktop\TicTacToeConsoleAppCS\obj\Debug\net9.0\refint\TicTacToeConsoleAppCS.dll
+C:\Users\hp\Desktop\TicTacToeConsoleAppCS\obj\Debug\net9.0\TicTacToeConsoleAppCS.pdb
+C:\Users\hp\Desktop\TicTacToeConsoleAppCS\obj\Debug\net9.0\TicTacToeConsoleAppCS.genruntimeconfig.cache
+C:\Users\hp\Desktop\TicTacToeConsoleAppCS\obj\Debug\net9.0\ref\TicTacToeConsoleAppCS.dll
